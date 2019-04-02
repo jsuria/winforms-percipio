@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PercipioApp", "PercipioApp\PercipioApp.csproj", "{D98013F3-2DAF-4E5E-AEFA-8D0A049AC74D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TabbedPages", "TabbedPages\TabbedPages.csproj", "{9EFEFBBF-69E9-4826-A112-CBE5DE3BB0EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileSave", "FileSave\FileSave.csproj", "{FFB29D49-FF3B-4AFA-9425-1C228ECB6BDA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileMenuDropdown", "FileMenuDropdown\FileMenuDropdown.csproj", "{5FC88240-AF90-4F90-82ED-0FEB440C2780}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D98013F3-2DAF-4E5E-AEFA-8D0A049AC74D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D98013F3-2DAF-4E5E-AEFA-8D0A049AC74D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D98013F3-2DAF-4E5E-AEFA-8D0A049AC74D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D98013F3-2DAF-4E5E-AEFA-8D0A049AC74D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EFEFBBF-69E9-4826-A112-CBE5DE3BB0EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EFEFBBF-69E9-4826-A112-CBE5DE3BB0EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EFEFBBF-69E9-4826-A112-CBE5DE3BB0EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EFEFBBF-69E9-4826-A112-CBE5DE3BB0EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFB29D49-FF3B-4AFA-9425-1C228ECB6BDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFB29D49-FF3B-4AFA-9425-1C228ECB6BDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFB29D49-FF3B-4AFA-9425-1C228ECB6BDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFB29D49-FF3B-4AFA-9425-1C228ECB6BDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FC88240-AF90-4F90-82ED-0FEB440C2780}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FC88240-AF90-4F90-82ED-0FEB440C2780}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FC88240-AF90-4F90-82ED-0FEB440C2780}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FC88240-AF90-4F90-82ED-0FEB440C2780}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66C90B09-F030-4A6C-AEF3-3F018DEA71FA}
+	EndGlobalSection
+EndGlobal
