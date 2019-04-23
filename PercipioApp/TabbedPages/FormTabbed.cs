@@ -22,5 +22,10 @@ namespace TabbedPages
         {
 
         }
+
+        private void FormTabbed_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
